@@ -1,0 +1,7 @@
+A sample RESTful service using Jersey
+
+1. Get me from github
+2. mvn install
+3. Deploy the war file in tomcat
+
+https://github.com/madrian
