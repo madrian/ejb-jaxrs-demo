@@ -1,7 +1,8 @@
-A sample RESTful service using Jersey
+A sample RESTful service with EJB
 
 1. Get me from github
 2. mvn install
-3. Deploy the war file in tomcat
+3. Deploy the war file in GlassFish
+4. curl http://localhost:8080/purchase_service_rs/rest/purchase/100
 
 https://github.com/madrian
